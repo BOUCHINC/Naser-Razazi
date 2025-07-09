@@ -12,9 +12,9 @@
         "⚠️Warning: Facebook does not support OpenAd."
       ],
       
-      "BannerNetwork"      : "admob",
-      "InterstitialNetwork": "admob",
-      "NativeNetwork"      : "admob",
+      "BannerNetwork"      : "facebook",
+      "InterstitialNetwork": "facebook",
+      "NativeNetwork"      : "facebook",
       
       "OpenAdNetwork"      : "admob",
       
@@ -29,9 +29,9 @@
         "AdMobNative"         : "ca-app-pub-6953444308306842/8304861772",
         "AdMobOpenAd"         : "ca-app-pub-6953444308306842/6341312918",
         
-        "FacebookBanner"      : "IMG_16_9_APP_INSTALL#692961278482629_692963411815749",
-        "FacebookInterstitial": "IMG_16_9_APP_INSTALL#692961278482629_692963491815741",
-        "FacebookNative"      : "IMG_16_9_LINK#692961278482629_857100538735368"
+        "FacebookBanner"      : "1113610139381216_1991491894926365",
+        "FacebookInterstitial": "1113610139381216_1991492228259665",
+        "FacebookNative"      : "1113610139381216_1991492874926267"
 
       }
     },
